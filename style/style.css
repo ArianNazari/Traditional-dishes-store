@@ -211,7 +211,7 @@ body {
     align-items: center;
     width: 100%;
     justify-content: space-between;
-    background-image: url(./images/Frame-347-scaled.jpg);
+    background-image: url(../images/Frame-347-scaled.jpg);
     background-size: cover;
     object-fit: cover;
 }
@@ -530,7 +530,7 @@ body {
     align-items: center;
     width: 100%;
     justify-content: space-between;
-    background-image: url(./images/Frame-347-scaled.jpg);
+    background-image: url(../Frame-347-scaled.jpg);
     background-size: cover;
     object-fit: cover;
 }
@@ -877,7 +877,7 @@ body {
     -moz-box-shadow: 0px 0px 9px 0px rgba(140, 140, 140, 0.75);
     border-radius: 20px;
     margin: 8rem 0 2rem 0;
-    background-image: url(./images/Frame-74-2.jpg);
+    background-image: url(../images/Frame-74-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-clip: border-box;
@@ -1045,7 +1045,7 @@ body {
 
 .parent-boxed-gift-art {
     display: flex;
-    background-image: url(./images/Frame-1000001594-3-1.jpg);
+    background-image: url(../images/Frame-1000001594-3-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1068,7 +1068,7 @@ body {
 .boxed-number-gift-art {
     width: 60px;
     height: 60px;
-    background-image: url(./images/Frame-1000001595-1.jpg);
+    background-image: url(../images/Frame-1000001595-1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1111,7 +1111,7 @@ body {
 
 /* Start About Me */
 .parent-about-me {
-    background-image: url(./images/Frame-76-2.jpg);
+    background-image: url(../images/Frame-76-2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1179,7 +1179,7 @@ body {
 }
 
 .title-items-bottom-about-me {
-    background-image: url(./images/Frame-10.jpg);
+    background-image: url(../images/Frame-10.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1262,7 +1262,7 @@ body {
     display: flex;
     width: 100%;
     height: 160px;
-    background-image: url(./images/Frame-347-scaled.jpg);
+    background-image: url(../images/Frame-347-scaled.jpg);
     border-radius: 20px;
     margin-bottom: 10rem;
     padding: 20px;
